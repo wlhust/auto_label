@@ -1,0 +1,26 @@
+<annotation>
+  <folder>5_paper_1</folder>
+  <filename>5</filename>
+  <path>5_paper_1/5</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>568</width>
+    <height>320</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>5&#20803;&#20154;&#27665;&#24065;&#32440;&#24065;</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>211</xmin>
+      <ymin>280</ymin>
+      <xmax>332</xmax>
+      <ymax>30</ymax>
+    </bndbox>
+  </object>
+</annotation>
